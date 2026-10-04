@@ -1,1 +1,3 @@
 # Fixify Tools MCP Requirements
+fastmcp>=2.14,<3
+requests>=2.31,<3
